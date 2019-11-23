@@ -1,3 +1,4 @@
 # simple-Django-rest_framewok
 
-builded a simple django restful framework with three diffrent classes
+a simple django restful framework with three different classes linked together 
+builded with pycharm
